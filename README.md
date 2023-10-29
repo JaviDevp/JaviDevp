@@ -12,7 +12,6 @@
 - 🎓 &nbsp;Currently graduated from the computer engineering program and in the process of obtaining the academic degree.
 - 🌱 &nbsp;I'm on track to learn more about Artificial Intelligence, Cloud Architecture, and automated trading systems.
 - ✍️ &nbsp;In my free time, I often read technology news to stay updated on the latest developments in our industry.
-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 - ✉️ You can shoot me an email at javiervidal.dev@gmail.com! I'll try to respond as soon as I can.
 
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
